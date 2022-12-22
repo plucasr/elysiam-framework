@@ -35,7 +35,7 @@
         "cpf": "^2.0.1",
         "express": "^4.17.1",
         "express-handlebars": "^4.0.3",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "moment": "^2.25.3",
         "mysql": "^2.18.1",
         "node-fetch": "^2.6.0",
